@@ -11,3 +11,9 @@ import datetime
 import os
 import down_upgrade_group_v3 as upgradeV3
 import csv
+
+
+def main():
+    pass
+    a = 'hello,world!'
+    print(a)
